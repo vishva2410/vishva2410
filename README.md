@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishva2410
-- 👀 I’m interested in AI,Deep Learning
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning AI,Deep Learning
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me vishvateja10@gmail.com
 - ⚡ Fun fact: inrovert at start extrovert at end
