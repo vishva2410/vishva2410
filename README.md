@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Focused on **Machine Learning, Deep Learning, and Computer Vision**
-- 🧠 Interested in **building practical, production-oriented ML systems**
+- 🎯 Focused on **Machine Learning, Deep Learning, Computer Vision and devops**
+- 🧠 Interested in **building practical, production-oriented ML systems and learn Devops**
 - 🔍 Strong inclination towards **model design, evaluation, and optimization**
 - 🤝 Open to **open-source collaboration, research-backed projects, and serious engineering work**
 - ⚡ **Personality:** Quiet observer → deep thinker → reliable collaborator
