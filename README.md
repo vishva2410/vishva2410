@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vishva+Teja;AI+%26+Machine+Learning+Enthusiat;Computer+Vision+%7C+Deep+Learning;Building+Practical+ML+Systems" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishva2410&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="vishva2410" />
 </p>
