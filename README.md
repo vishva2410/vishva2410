@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+
 class VishvaTeja:
     def __init__(self):
         self.location = "Hyderabad, India"
@@ -30,7 +30,7 @@ class VishvaTeja:
     
     def collaboration(self):
         return "Open to open-source ML/backend projects and technical discussions"
-```
+
 
 **🎯 What I Do:** Build backend systems and AI pipelines that actually ship to production  
 **⚡ Philosophy:** Shipping working systems > collecting buzzwords  
