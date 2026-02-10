@@ -1,46 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishva+Teja;Backend+%26+AI+Engineer;Building+Production-Ready+ML+Systems;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%26+AI+Engineer;Building+Production-Ready+ML+Systems;Open+to+Collaborations" alt="Typing SVG" />
 </div>
 
+<h1 align="center">Hi, I'm Vishva Teja Guduguntla</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishva2410&label=Profile%20Views&color=58A6FF&style=flat-square" alt="vishva2410" />
-  <img src="https://img.shields.io/github/followers/vishva2410?label=Followers&style=flat-square&color=58A6FF" alt="followers" />
-  <img src="https://img.shields.io/github/stars/vishva2410?label=Stars&style=flat-square&color=58A6FF" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=vishva2410&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vishva2410?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vishva2410?label=Total%20Stars&style=flat-square&color=58A6FF" alt="Stars" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
+I'm a **Backend and AI Engineer** with hands-on experience building scalable backend systems, AI/ML pipelines, and real-world analytics solutions. Currently pursuing B.Tech in Computer Science (Data Science) at Vardhaman College, Hyderabad with a CGPA of 8.9/10.0.
 
-class VishvaTeja:
-    def __init__(self):
-        self.location = "Hyderabad, India"
-        self.education = "B.Tech CS (Data Science) @ Vardhaman College"
-        self.cgpa = 8.9
-        self.role = "Backend & AI Engineer"
-        self.focus = ["System Design", "ML Pipelines", "Production AI"]
-        
-    def current_work(self):
-        return {
-            "building": ["Real-time AI systems", "Privacy-focused CV", "Scalable backends"],
-            "learning": ["MLOps", "Microservices", "System Design"],
-            "interests": ["Computer Vision", "NLP", "Backend Architecture"]
-        }
-    
-    def collaboration(self):
-        return "Open to open-source ML/backend projects and technical discussions"
+**What I Do:**
+- Build production-ready backend systems using Flask, FastAPI, and RESTful APIs
+- Develop AI/ML solutions with TensorFlow, PyTorch, and YOLO for real-world applications
+- Design scalable microservices architecture and data processing pipelines
+- Analyze data and build dashboards to drive business decisions
 
+**Current Role:** Data Analyst Intern at CraftyourCareer (Dec 2024 - Mar 2025)
+- Building Tableau dashboards analyzing 5K+ weekly user sessions
+- Performing exploratory data analysis on Google Analytics data
+- Delivering weekly performance reports for data-driven decision making
 
-**🎯 What I Do:** Build backend systems and AI pipelines that actually ship to production  
-**⚡ Philosophy:** Shipping working systems > collecting buzzwords  
-**📍 Currently:** Data Analyst Intern @ CraftyourCareer (Dec 2024 - Mar 2025)
+**Philosophy:** Quality over quantity. Shipping working systems over collecting buzzwords.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/vishva-teja-guduguntla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -51,13 +44,13 @@ class VishvaTeja:
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://github.com/vishva2410">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
 <p align="left">
@@ -72,10 +65,10 @@ class VishvaTeja:
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
 </p>
 
-### AI / Machine Learning
+### AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -93,7 +86,7 @@ class VishvaTeja:
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-### DevOps & Cloud
+### DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -102,7 +95,7 @@ class VishvaTeja:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### Frontend (Working Knowledge)
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -112,16 +105,20 @@ class VishvaTeja:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishva2410&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva2410&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishva2410&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva2410&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishva2410&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
+
+---
+
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishva2410&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
@@ -129,7 +126,7 @@ class VishvaTeja:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vishva2410&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -137,122 +134,74 @@ class VishvaTeja:
 
 ---
 
-## 📈 Contribution Activity
+## Detailed Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishva2410&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishva2410&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishva2410&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishva2410&theme=github_dark" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishva2410&theme=github_dark" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishva2410&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishva2410&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishva2410&theme=github_dark" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishva2410&theme=github_dark" width="400"/>
 </div>
 
 ---
 
-## 💻 Coding Activity
+## Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishva2410&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="Wakatime Stats"/>
-</div>
+**Learning:**
+- System Design Fundamentals
+- MLOps & Model Deployment
+- Microservices Architecture
+- Advanced Backend Patterns
 
----
+**Building:**
+- Real-time Voice AI Systems
+- Privacy-Preserving Computer Vision
+- Clinical ML Decision Support
+- Scalable API Architectures
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishva2410&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Detailed Streak"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - System Design Fundamentals
-  - MLOps & Model Deployment
-  - Microservices Architecture
-  - Advanced Backend Patterns
-
-building:
-  - Real-time Voice AI Systems
-  - Privacy-Preserving Computer Vision
-  - Clinical ML Decision Support
-  - Scalable API Architectures
-
-improving:
-  - LeetCode Rating: 1475 → 1600+ (240+ problems solved)
-  - Contributing to Open Source
-  - Technical Writing & Documentation
-  - Production-Grade Code Quality
-```
+**Improving:**
+- LeetCode Rating: 1475 → 1600+ (240+ problems solved)
+- Open Source Contributions
+- Technical Documentation
+- Production-Grade Code Quality
 
 ---
 
-## 📝 Publications
+## Publications
 
-**Green Morph Solutions** — *International Journal of Science & Advanced Technology*  
+**Green Morph Solutions** — International Journal of Science & Advanced Technology  
 Vol. 16, Issue 2, 2025 | [DOI: 10.71097/IJSAT.v16.i2.4382](https://doi.org/10.71097/IJSAT.v16.i2.4382)
 
+Research on sustainable engineering practices in AI systems.
+
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaboration
 
-- 🔹 Production-ready ML/AI systems
-- 🔹 Backend architecture & API design
-- 🔹 Computer Vision & NLP projects
-- 🔹 Open-source contributions
-- 🔹 Research-backed engineering work
+I'm interested in collaborating on:
+- Production-ready ML/AI systems
+- Backend architecture & API design
+- Computer Vision & NLP projects
+- Open-source contributions
+- Research-backed engineering work
 
 **Preferred Communication:** Direct, technical, solution-oriented
 
----
-
-## 💡 Fun Facts
-
-```javascript
-const vishva = {
-  code: ["Python", "Java", "SQL", "C++"],
-  askMeAbout: ["Backend Dev", "ML/AI", "System Design", "Data Analysis"],
-  technologies: {
-    backend: ["Flask", "FastAPI", "PostgreSQL"],
-    ml: ["TensorFlow", "PyTorch", "YOLO"],
-    devOps: ["Docker", "AWS", "Git"],
-    dataViz: ["Tableau", "Matplotlib", "Seaborn"]
-  },
-  architecture: ["Microservices", "RESTful APIs", "Event-Driven"],
-  currentlyLearning: "MLOps & Production ML Systems",
-  funFact: "I've won 10+ debate competitions 🎤"
-};
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-**💼 Open to opportunities in Backend Engineering & AI/ML**
-
-Feel free to reach out for collaborations or just a tech chat!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishva-teja-guduguntla)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishvateja10@gmail.com)
-
-</div>
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/vishva-teja-guduguntla) or [Email](mailto:vishvateja10@gmail.com) for collaborations or technical discussions.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/vishva2410">vishva2410</a> | Last updated: February 2025</sub>
+  <sub>Last updated: February 2025 | Built with passion for clean code and scalable systems</sub>
 </div>
