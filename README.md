@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%26+AI+Engineer;Building+Production-Ready+ML+Systems;Open+to+Collaborations" alt="Typing SVG" /> </div> <h1  align="center">Hi, I'm Vishva Teja Guduguntla</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishva2410&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/vishva2410?label=Followers&style=flat-square&color=58A6FF" alt="Followers" /> <img src="https://img.shields.io/github/stars/vishva2410?label=Total%20Stars&style=flat-square&color=58A6FF" alt="Stars" /> </p>
  
-About Me
+About Me 
 I'm a Backend and AI Engineer with hands-on experience building scalable backend systems, AI/ML pipelines, and real-world analytics solutions. Currently pursuing B.Tech in Computer Science (Data Science) at Vardhaman College, Hyderabad with a CGPA of 8.9/10.0.
 What I Do:
 * Build production-ready backend systems using Flask, FastAPI, and RESTful APIs
