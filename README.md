@@ -1,15 +1,19 @@
 <div align="center">
 
-# Vishva Teja Guduguntla
+<!-- TYPING HEADER - rendered by readme-typing-svg -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=2000&color=4F9EFF&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Building+production-ready+ML+systems;Shipping+AI+outside+the+notebook;FastAPI+%C2%B7+PyTorch+%C2%B7+YOLOv8+%C2%B7+Docker" alt="Typing SVG" />
 
-**Backend & AI Engineer**
+<h1>Vishva Teja Guduguntla</h1>
 
-*Building production-ready ML systems and scalable backend infrastructure*
+<p>
+  <a href="https://linkedin.com/in/vishva-teja-guduguntla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vishvateja10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/vishva_guduguntla/"><img src="https://img.shields.io/badge/LeetCode-1475%20Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/vishva2410"><img src="https://img.shields.io/badge/GitHub-vishva2410-181717?style=flat-square&logo=github"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishva-teja-guduguntla)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishvateja10@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1475%20Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishva_guduguntla/)
-[![GitHub](https://img.shields.io/badge/GitHub-vishva2410-181717?style=flat-square&logo=github)](https://github.com/vishva2410)
+<!-- PORTFOLIO LINK - replace URL after deploying index.html -->
+**[View full portfolio →](https://vishva2410.github.io)**
 
 </div>
 
@@ -17,12 +21,9 @@
 
 ## About
 
-Backend and AI engineer with hands-on experience shipping scalable systems, ML pipelines, and analytics solutions. Currently pursuing B.Tech in Computer Science (Data Science) at Vardhaman College, Hyderabad — **CGPA: 8.9 / 10.0**.
+Backend and AI engineer focused on **shipping systems that work in production** — not just demos. B.Tech CS (Data Science) at Vardhaman College, Hyderabad · **CGPA: 8.9/10** · Peer-reviewed publication in IJSAT 2025.
 
-**Data Analyst Intern @ CraftyourCareer** *(Dec 2024 – Mar 2025)*  
-Tracking 5K+ weekly user sessions via Tableau dashboards, running exploratory analysis on Google Analytics data, and delivering weekly performance reports for data-driven decisions.
-
-**Published researcher** — IJSAT Vol. 16, Issue 2 (2025) · [DOI: 10.71097/IJSAT.v16.i2.4382](https://doi.org/10.71097/IJSAT.v16.i2.4382)
+> Quality over quantity. Working systems over buzzwords.
 
 ---
 
@@ -31,21 +32,79 @@ Tracking 5K+ weekly user sessions via Tableau dashboards, running exploratory an
 | Area | Technologies |
 |------|-------------|
 | **Languages** | Python · SQL · Java · C++ |
-| **Backend & APIs** | Flask · FastAPI · REST APIs · Microservices |
+| **Backend & APIs** | Flask · FastAPI · REST · Microservices |
 | **AI / ML** | TensorFlow · PyTorch · Keras · OpenCV · YOLOv8 |
-| **Data & Databases** | PostgreSQL · MySQL · Pandas · NumPy · Tableau |
-| **DevOps & Tools** | Docker · AWS · Git · Postman · Streamlit |
+| **Data** | PostgreSQL · MySQL · Pandas · NumPy · Tableau |
+| **DevOps** | Docker · AWS · Git · Postman · Streamlit |
 
 ---
 
 ## Featured Projects
 
-### 🎙️ Real-time Voice AI System
-End-to-end voice pipeline targeting sub-200ms latency. Streaming speech-to-text → LLM reasoning → text-to-speech over WebSockets.  
-`FastAPI` `WebSocket` `PyTorch` `Streaming STT/TTS`
+### Real-time Voice AI System
+End-to-end pipeline: streaming STT → LLM → TTS over WebSockets. Target latency: **< 200ms**.  
+`FastAPI` `WebSocket` `PyTorch` `Streaming TTS`
 
-### 🔒 Privacy-Preserving Computer Vision
-On-device YOLOv8 inference with face anonymisation. Zero PII leaves the edge device — 100% local processing.  
+### Privacy-Preserving Computer Vision
+On-device YOLOv8 inference with live face anonymisation. **Zero PII leaves the edge.**  
+`YOLOv8` `OpenCV` `TensorFlow` `Edge Inference`
+
+### Clinical ML Decision Support
+Multimodal EHR + imaging diagnostic aid with ranked differential diagnoses and clinical-grade explainability.  
+`PyTorch` `FastAPI` `PostgreSQL` `XAI`
+
+### Analytics Dashboard Platform
+Tableau dashboards tracking **5,000+ weekly sessions** via GA4 with automated reporting pipeline.  
+`Tableau` `Python` `GA4` `EDA`
+
+---
+
+## By the Numbers
+
+| | |
+|---|---|
+| CGPA | **8.9 / 10** |
+| LeetCode rating | **1,475+** |
+| Problems solved | **240+** |
+| Sessions tracked / week | **5,000+** |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishva2410&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&icon_color=4f9eff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva2410&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&langs_count=6" height="160"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishva2410&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff"/>
+</div>
+
+---
+
+## Publication
+
+**Green Morph Solutions — Sustainable Engineering Practices in AI Systems**  
+International Journal of Science & Advanced Technology · Vol. 16, Issue 2 · 2025  
+[DOI: 10.71097/IJSAT.v16.i2.4382](https://doi.org/10.71097/IJSAT.v16.i2.4382)
+
+---
+
+## Currently
+
+**Building:** Real-time Voice AI · Privacy-Preserving Vision · Clinical ML · Scalable APIs  
+**Learning:** System Design at scale · MLOps & Deployment · Advanced Backend Patterns  
+**Targeting:** LeetCode 1475 → 1600+
+
+---
+
+<div align="center">
+<sub>Open to collaborations in Backend · AI/ML · Computer Vision · NLP · Research engineering</sub><br>
+<sub>Hyderabad, India · vishvateja10@gmail.com</sub>
+</div>On-device YOLOv8 inference with face anonymisation. Zero PII leaves the edge device — 100% local processing.  
 `YOLOv8` `OpenCV` `TensorFlow` `Edge Inference`
 
 ### 🏥 Clinical ML Decision Support
