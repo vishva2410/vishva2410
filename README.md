@@ -60,6 +60,6 @@ Metabolic tracking system that programmatically recalibrates TDEE using predicte
 
 ## Track Record
 
-* **Algorithms:** 240+ LeetCode problems solved (Rating: 1475), top 30% weekly contest rank.
+* **Algorithms:** 500+ LeetCode and GFG problems solved.
 * **Publication:** *Green Morph Solutions*, International Journal of Science & Advanced Technology (DOI: 10.71097/IJSAT.v16.12.4382).
 * **Industry Experience:** Data Analyst Intern at CraftyourCareer (Reduced bounce rate by 18% via targeted engagement analytics).
