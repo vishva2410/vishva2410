@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Vishva+Teja+Guduguntla;Backend+%26+AI+Engineer;Privacy-Preserving+AI+%7C+Scalable+Inference;Bridging+Models+and+Production" alt="Typing Animation" />
 </div>
-
+ 
 <div align="center">
   <a href="https://linkedin.com/in/vishva-teja-guduguntla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/vishva_guduguntla/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
