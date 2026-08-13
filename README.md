@@ -1,4 +1,4 @@
- <div align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Vishva+Teja+Guduguntla;Backend+%26+AI+Engineer;Privacy-Preserving+AI+%7C+Scalable+Inference;Bridging+Models+and+Production" alt="Typing Animation" />
 </div>
  
