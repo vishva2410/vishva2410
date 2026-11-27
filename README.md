@@ -2,9 +2,8 @@
 
 > Drop this into `vishva2410/vishva2410` → `README.md`. Everything below is self-contained. Optional bits (snake, Spotify, WakaTime) have setup notes in HTML comments so nothing breaks if you don't configure them.
 
----
 
-```markdown
+
 <!-- ══════════════════════════════════════════════════════════════
      HERO
 ════════════════════════════════════════════════════════════════ -->
@@ -392,4 +391,3 @@ Whether it's inference latency, privacy-first AI, or just interesting systems �
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20scrolling&fontSize=20&fontColor=ffffff" width="100%" />
 </div>
-```
