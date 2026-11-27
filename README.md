@@ -1,3 +1,4 @@
+```markdown
 <!-- ══════════════════════════════════════════════════════════════
      HERO
 ════════════════════════════════════════════════════════════════ -->
@@ -53,6 +54,7 @@
 
 ### `~/current-status`
 
+```console
 vishva@dev ~ % ./status.sh
 
   ▶ ROLE      B.Tech CS (Data Science) · Vardhaman College of Engineering
@@ -60,7 +62,7 @@ vishva@dev ~ % ./status.sh
   ▶ SHIPPING  VoidBox v2 · Bodha AI · OncoDetect modules
   ▶ READING   Designing Data-Intensive Applications
   ▶ MOOD      caffeine.pid [running] ████████████░ 92%
-
+```
 
 <!-- ══════════════════════════════════════════════════════════════
      MANIFESTO
